@@ -1,7 +1,7 @@
 # Telecom Churn Prediction Modeling
 
 ## 📌 Project Overview
-This repository contains a comprehensive Jupyter Notebook (`Telecom Churn Prediction Modeling.ipynb`) focused on predicting customer churn for a telecommunications company. The project implements an end-to-end machine learning pipeline, progressing from data cleaning and feature selection to the implementation of advanced ensemble techniques.
+This repository contains a comprehensive Jupyter Notebook (`Telecom Churn Prediction Modeling - LogReg + RF + Boosting models + Ensemble learning.ipynb`) focused on predicting customer churn for a telecommunications company. The project implements an end-to-end machine learning pipeline, progressing from data cleaning and feature selection to the implementation of advanced ensemble techniques.
 
 The primary objective is to identify customers at risk of leaving (churning) by analyzing their demographics, account information, and service usage patterns. The project evaluates several individual classifiers and combines them using **Voting** and **Stacking** methods to achieve robust predictive performance.
 
@@ -45,7 +45,7 @@ The notebook follows a structured end-to-end data science pipeline:
     ```bash
     pip install pandas numpy seaborn matplotlib scikit-learn optuna xgboost lightgbm catboost shap openpyxl statsmodels
     ```
-3.  **Execution**: Open `Ensemble Models Task.ipynb` in Jupyter Lab, Jupyter Notebook, or VS Code and run the cells sequentially to reproduce the analysis and model results.
+3.  **Execution**: Open `Telecom Churn Prediction Modeling - LogReg + RF + Boosting models + Ensemble learning.ipynb` in Jupyter Lab, Jupyter Notebook, or VS Code and run the cells sequentially to reproduce the analysis and model results.
 
 ---
 
